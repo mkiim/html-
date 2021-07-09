@@ -7,9 +7,11 @@
   <title>Document</title>
 </head>
 <body>
-  <section>
-    <h2>株式会社TECH</h2>
-  </section>
-  
+ <div>
+   <a>企業情報</a>
+   <a>会社概要</a>
+   <a>よくある質問</a>
+   <a>お問い合わせ</a>
+ </div>
 </body>
 </html>
